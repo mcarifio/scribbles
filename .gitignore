@@ -1,0 +1,9 @@
+# ignore working files
+
+*~
+*.t
+*.gz
+
+
+# ignore anything in the 'tmp' subtree
+tmp/
